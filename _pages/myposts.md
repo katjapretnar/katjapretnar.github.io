@@ -4,6 +4,7 @@ layout: collection
 permalink: /myposts/
 collection: posts
 entries_layout: grid
+author_profile: false
 classes: wide
 ---
 
