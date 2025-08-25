@@ -1,12 +1,12 @@
 ---
 title: "and more trial"
-date: 2025-08-20
+date: 2025-08-24
 header:
   teaser: ../assets/2025_t/tri.png
 categories:
   - sport
 tags:
-  - time autumn
+  - time sommer
   - place austria
   - sport climbing
 ---

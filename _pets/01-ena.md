@@ -1,14 +1,14 @@
 ---
 title: "the first trial"
-date: 2025-08-19T15:34:30-04:00
+date: 2025-08-22
 header:
   teaser: ../assets/2025_t/ena.png
   caption: "my my my"
 categories:
   - sport
 tags:
-  - time autumn
-  - place austria
+  - time winter
+  - place slovenia
   - sport climbing
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "some more trial"
-date: 2025-08-20
+date: 2025-08-23
 header:
   teaser: ../assets/2025_t/dva.png
 gallery:
@@ -15,9 +15,9 @@ gallery:
 categories:
   - sport
 tags:
-  - time autumn
-  - place austria
+  - time spring
+  - place italy
   - sport climbing
 ---
-
+Collection.
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
