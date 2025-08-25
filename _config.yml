@@ -87,12 +87,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-# Collections
-collections:
-  pets:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _posts
   - scope:
@@ -112,14 +106,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _pets
-  - scope:
-      path: "_pets"
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 category_archive:
   type: liquid
