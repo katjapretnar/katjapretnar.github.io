@@ -63,6 +63,9 @@ author:
   avatar : "/assets/images/bw_kp.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
+    - label: "Villach, AUT"
+      icon: "fas fa-solid fa-earth-europe"
+      url: "https://"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://katjapretnar.github.io"
@@ -72,6 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katjapretnar"
+    - label: CV"
+      icon: "fas fa-solid fa-file"
+      url: "https://"
 
 footer:
   links:
