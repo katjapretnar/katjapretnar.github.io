@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Katja Pretnar"
   avatar : "/assets/images/bw_kp.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Yet another climber & engineer. Mostly harmless."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
