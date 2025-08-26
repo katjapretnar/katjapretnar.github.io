@@ -64,7 +64,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Villach, AUT"
-      icon: "fab fa-solid fa-earth-europe"
+      icon: "fab fa-regular fa-location-dot"
       url: "https://"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katjapretnar"
     - label: "CV"
-      icon: "fab fa-solid fa-file"
+      icon: "fab fa-regular fa-file"
       url: "https://"
 
 footer:
