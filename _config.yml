@@ -67,7 +67,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://katjapretnar.github.io"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
