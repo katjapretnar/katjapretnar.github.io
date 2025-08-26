@@ -2,5 +2,7 @@
 title: "Posts by Year"
 permalink: /posts/
 layout: posts
-author_profile: true
+entries_layout: grid
+author_profile: false
+classes: wide
 ---
