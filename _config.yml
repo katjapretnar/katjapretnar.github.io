@@ -60,18 +60,18 @@ plugins:
 
 author:
   name   : "Katja Pretnar"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bw_kp.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://katjapretnar.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/katjapretnar"
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
       url: "https://"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/katjapretnar"
 
 footer:
   links:
