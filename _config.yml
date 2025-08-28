@@ -62,7 +62,7 @@ author:
   name   : "Katja Pretnar"
   avatar : "/assets/images/bw_kp.png"
   bio    : "Yet another climber & engineer. Mostly harmless."
-  location: Villach
+  location: Villach, AUT
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,8 +77,8 @@ author:
       icon: "fas fa-fw fa-file"
       url: "https://"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "katja9retnar@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:katja9retnar@gmail.com"
 
 footer:
   links:
