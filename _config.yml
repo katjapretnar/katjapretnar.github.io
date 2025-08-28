@@ -67,6 +67,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://katjapretnar.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:katja9retnar@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://"
@@ -76,9 +79,6 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-file"
       url: "https://"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:katja9retnar@gmail.com"
 
 footer:
   links:
