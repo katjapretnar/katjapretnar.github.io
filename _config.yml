@@ -62,6 +62,7 @@ author:
   name   : "Katja Pretnar"
   avatar : "/assets/images/bw_kp.png"
   bio    : "Yet another climber & engineer. Mostly harmless."
+  location: Villach
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
