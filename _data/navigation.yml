@@ -1,6 +1,5 @@
 main:
   - title: ":pencil: Posts"
-    subtitle : "Posts"
     url: /posts/
     description: "Posts"
   - title: ":mountain_snow:"
@@ -9,6 +8,6 @@ main:
   - title: ":sun_with_face:"
     url: /tags/
     description: "Tags"
-  - title: ":yellow_heart:"
+  - title: ":yellow_heart: About"
     url: /about/
     description: "About"
