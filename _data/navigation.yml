@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
+  - title: ":pencil:"
     url: /posts/
-  - title: "Categories"
+    description: "Posts"
+  - title: ":mountain_snow:"
     url: /categories/
-  - title: ":love_letter:"
+    description: "Categories"
+  - title: ":sun_with_face:"
     url: /tags/
-  - title: "About"
+    description: "Tags"
+  - title: ":yellow_heart:"
     url: /about/
+    description: "About"
