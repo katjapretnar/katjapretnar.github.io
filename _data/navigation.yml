@@ -1,5 +1,6 @@
 main:
   - title: ":pencil: Posts"
+    subtitle : "Posts"
     url: /posts/
     description: "Posts"
   - title: ":mountain_snow:"
