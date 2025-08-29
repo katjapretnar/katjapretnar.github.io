@@ -1,5 +1,5 @@
 main:
-  - title: ":pencil:"
+  - title: ":pencil: Posts"
     url: /posts/
     description: "Posts"
   - title: ":mountain_snow:"
