@@ -2,7 +2,7 @@
 title: "Rotwand Huette"
 date: 2025-08-30
 header:
-  teaser: ../images/2025-08-30-rotwandhuette_t.png
+  teaser: ../images/2025-08-30-rotwandhuette_t.jpg
 gallery:
   - url: ../images/2025-08-30-rotwandhuette.jpg
     image_path:  ../images/2025-08-30-rotwandhuette.jpg
@@ -12,6 +12,6 @@ categories:
 tags:
 ---
 
-{% include gallery caption="This is galery caption." %}
+{% include gallery %}
 
 Dolomites, Summer, Rosengarten.
