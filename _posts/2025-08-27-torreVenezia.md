@@ -12,6 +12,6 @@ categories:
 tags:
 ---
 
-{% include gallery caption="This is galery caption." %}
+{% include gallery %}
 
 Dolomites, Summer, Civetta.
