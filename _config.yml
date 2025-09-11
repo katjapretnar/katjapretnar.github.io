@@ -62,7 +62,7 @@ author:
   name   : "Katja Pretnar"
   avatar : "/assets/images/bw_kp.png"
   bio    : "Yet another climber & engineer. Mostly harmless."
-  location: Villach, AUT & Gorje, SLO
+  location: SLO & AUT
   links:
  #   - label: "Website"
  #     icon: "fas fa-fw fa-link"
@@ -73,18 +73,18 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/katjapretnar"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/katjapretnar"
   #  - label: "CV"
   #    icon: "fas fa-fw fa-file"
   #    url: "https://"
 
 footer:
   links:
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/katjapretnar"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/katjapretnar"
     - label: Posts by Categories
       icon: "fa-solid fa-icons"
       url: /categories/
