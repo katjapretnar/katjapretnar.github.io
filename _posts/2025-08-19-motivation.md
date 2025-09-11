@@ -21,5 +21,12 @@ Another rather funny reason is that I have this Seinfeld scene in my head, where
 
 so the site would be some place online where one could share some stuff/output/etc.
 
-- My personal believe is that in today's age of AI generation it is very important that people still use their brain and
-their creativity to create real stuff.
+- My personal believe is that in today's age of AI generation it is more than ever important to create and realize ideas
+that are completely grown out of humans' work. Even if that is way harder and even if the result is not that 
+perfect/clean as if it would be if generated.
+
+- I want to improve my drawing skills. It is something that I used to love to do, but as I grow to be an adult in a
+modern society, I completely neglect it.
+
+- I want to share some ideas or places I have visited with others. That enables me to keep the memory alive for longer 
+and digest the experience more thoroughly. Hopefully for the others could serve as some inspiration. 
