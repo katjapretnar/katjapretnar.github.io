@@ -2,12 +2,6 @@ main:
   - title: ":pencil: Posts"
     url: /posts/
     description: "Posts"
-  - title: ":mountain_snow:"
-    url: /categories/
-    description: "Categories"
-  - title: ":sun_with_face:"
-    url: /tags/
-    description: "Tags"
   - title: ":yellow_heart: About"
     url: /about/
     description: "About"

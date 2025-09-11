@@ -62,7 +62,7 @@ author:
   name   : "Katja Pretnar"
   avatar : "/assets/images/bw_kp.png"
   bio    : "Yet another climber & engineer. Mostly harmless."
-  location: Villach, AUT
+  location: Villach, AUT & Gorje, SLO
   links:
  #   - label: "Website"
  #     icon: "fas fa-fw fa-link"
@@ -82,9 +82,9 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/katjapretnar"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/katjapretnar"
     - label: Posts by Categories
       icon: "fa-solid fa-icons"
       url: /categories/
