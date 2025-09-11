@@ -10,6 +10,7 @@ gallery:
 categories:
   - summer
 tags:
+  - bestof
 ---
 
 {% include gallery %}

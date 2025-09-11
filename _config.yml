@@ -86,7 +86,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katjapretnar"
     - label: Posts by Categories
+      icon: "fa-solid fa-icons"
       url: /categories/
+    - label: Posts by Tags
+      icon: "fa-solid fa-tags"
+      url: /tags/
 
 defaults:
   # _posts
