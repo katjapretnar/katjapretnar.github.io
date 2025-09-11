@@ -85,6 +85,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katjapretnar"
+    - label: Posts by Categories
+      url: /categories/
 
 defaults:
   # _posts
