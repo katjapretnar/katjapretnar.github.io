@@ -14,4 +14,4 @@ tags:
 
 {% include gallery %}
 
-Italy, Summer, Sella Nevea, Bila Pec.
+Italy, Sella Nevea.

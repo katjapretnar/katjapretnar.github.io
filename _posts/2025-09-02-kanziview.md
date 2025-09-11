@@ -14,4 +14,4 @@ tags:
 
 {% include gallery %}
 
-Austria, Summer, Kanzianiberg.
+Austria, Carinthia.

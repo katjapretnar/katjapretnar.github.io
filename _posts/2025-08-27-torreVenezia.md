@@ -1,5 +1,5 @@
 ---
-title: "Torre Venezia"
+title: "Torre Venezia, Andrich-Faè"
 date: 2025-08-27
 header:
   teaser: ../images/2025-08-27-torreVenezia_t.png
@@ -14,4 +14,4 @@ tags:
 
 {% include gallery %}
 
-Dolomites, Summer, Civetta.
+Dolomites, Civetta.

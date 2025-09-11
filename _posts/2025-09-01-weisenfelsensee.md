@@ -1,5 +1,5 @@
 ---
-title: "Weissenfelsen See"
+title: "Lago di Fusine"
 date: 2025-09-01
 header:
   teaser: ../images/2025-09-01-weissenfelsensee_t.jpg
@@ -14,4 +14,4 @@ tags:
 
 {% include gallery %}
 
-Italy, Summer, Mangart.
+Italy, Mangart.

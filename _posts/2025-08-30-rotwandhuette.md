@@ -1,5 +1,5 @@
 ---
-title: "Rotwand Huette"
+title: "Rotwand"
 date: 2025-08-30
 header:
   teaser: ../images/2025-08-30-rotwandhuette_t.jpg
@@ -14,4 +14,4 @@ tags:
 
 {% include gallery %}
 
-Dolomites, Summer, Rosengarten.
+Dolomites, Rosengarten.
