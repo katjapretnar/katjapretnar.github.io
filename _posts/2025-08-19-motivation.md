@@ -16,5 +16,7 @@ One simple reason is the one that we probably share with all the geeky people ou
 first place, and another rather funny reason is that I have this Seinfeld scene in my head, where Kramer is yelling to George:
 "You contribute nothing to society!!!".
 
-![Kramer yelling: You contribute nothing to society!](/../images/2025-08-19-kramer.jpg width="200" "You contribute nothing to society")
+[![Kramer yelling: You contribute nothing to society!](../images/2025-08-19-kramer.jpg "You contribute nothing to society")]: #
+
+<img src="../images/2025-08-19-kramer.jpg" width="200" title="You contribute nothing to society!" alt="You contribute nothing to society!">
 
