@@ -55,6 +55,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+google_site_verification: "YC6lIVGAHPRKRvDH4Dztg1B6YxTgNCPx1Qeep5swrBo"
+
 author:
   name   : "Katja Pretnar"
   avatar : "/assets/images/bw_kp.png"
