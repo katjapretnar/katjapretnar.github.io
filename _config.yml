@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ꟼK
+#title: ꟼK
+title: Katja Pretnar
 logo: "/assets/images/kp1.png"
 email: "katjapretnar@mailbox.org"
 description: Personal website of Katja Pretnar.
@@ -58,7 +59,7 @@ plugins:
 google_site_verification: "YC6lIVGAHPRKRvDH4Dztg1B6YxTgNCPx1Qeep5swrBo"
 
 author:
-  name   : "Katja Pretnar"
+  name   : "ꟼK"
   avatar : "/assets/images/bw_kp.png"
   bio    : "Yet another climber & engineer. 
   Mostly harmless."
