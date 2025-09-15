@@ -10,12 +10,7 @@ Sample post listing for the places.
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for place in site.data.places %}
     {% assign filtered_posts = site.posts | where: 'place', {{place.name}} %}
-    <section id="{{ place.name }}">
-        <h2>{{ place.name }}</h2>
-        <div class="entries-{{ entries_layout }}">
         {% for post in filtered_posts %}
-            {% include archive-single.html type=entries_layout %}
+            <a href="{{post.url}}">{{post.title}}</a>
         {% endfor %}
-        </div>
-    </section>
 {% endfor %}
