@@ -11,6 +11,7 @@ categories:
   - summer
 tags:
   - bestof
+place: Dolomites
 ---
 
 {% include gallery %}

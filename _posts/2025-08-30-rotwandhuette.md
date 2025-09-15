@@ -10,6 +10,7 @@ gallery:
 categories:
   - summer
 tags:
+place: Dolomites
 ---
 
 {% include gallery %}

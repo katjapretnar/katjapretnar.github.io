@@ -10,6 +10,7 @@ gallery:
 categories:
   - winter
 tags:
+place: Carinthia
 ---
 
 {% include gallery %}
