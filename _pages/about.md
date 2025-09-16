@@ -32,6 +32,7 @@ And since we - you and I - found ourselves here, lets try to make the best of it
 
 ---
 
-If you find anything on the website interesting, let me know and I'd be happy to connect. Drop me an email to <katjapretnar@mailbox.org>
+If you find anything on the website interesting, let me know and I'd be happy to connect. 
+Drop me an email to <katjapretnar@mailbox.org>
 
 If you'd like, signup for my newsletter  - which I might or might not send out :), lets see 
