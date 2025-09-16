@@ -23,7 +23,7 @@ For the rest, I am not sure if it makes sense to try to list them all here, neve
 
 To be completely honest, I am not totally sure if I wanna write an 'About'-page to the anonymous internet visitors - you 
 or what the purpose of this website should be in the first place.
-On top of that, I am also being quite realistic, that after some while, I might not be disciplined enough to post updates regularly. 
+On top of that, I am also being quite realistic, that after some while, I might not be disciplined enough to post updates regularly.   
 (+uf kinda not confident & pessimistic words here, just perfect for an About-page :) ) 
 
 However I will try my best and the website is anyways already up and running - it is right here, right now, so...
