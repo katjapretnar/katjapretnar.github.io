@@ -28,8 +28,8 @@ On top of that, I am also being quite realistic, that after some while, I might 
 (+uf kinda not confident & pessimistic words here, just perfect for an About-page :) ) 
 </sub></sup>
 
-However I will try my best and the website is anyways already up and running - it is right here, right now, so...
+I will try my best with this website and since its already up and running ...
 
 If you find anything on the website interesting, let me know and I'd be happy to connect.
 
-If you'd like, signup for my newsletter (which I might or might not send out :), lets see)
+If you'd like, signup for my newsletter  - which I might or might not send out :), lets see 
