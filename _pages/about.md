@@ -20,7 +20,6 @@ On top of that, I am also being quite realistic, that after some while, I might 
 (+uf kinda not confident & pessimistic words here, just perfect for an About-page :) ) 
 However I will try my best and the website is anyways already up and running - it is right here, right now, so...
 
-If you find anything on the website interesting, let me know and I'd be happy to connect. 
-{% link mailto:katjapretnar@mailbox.com %}
+If you find anything on the website interesting, let me know and I'd be happy to connect.
 
 If you'd like, signup for my newsletter (which I might or might not send out :), lets see)
