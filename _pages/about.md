@@ -22,10 +22,10 @@ mainly climbing and all its variants.
 For the rest, I am not sure if it makes sense to try to list them all here, nevertheless this website shows some of them.
 
 <sup><sub>
-To be completely honest, I am not totally sure if I wanna write an 'About'-page to the anonymous internet visitors - you 
+To be completely honest, I am not totally sure if I wanna even write an 'About'-page to the anonymous internet visitors - you -
 or what the purpose of this website should be in the first place.
-On top of that, I am also being quite realistic, that after some while, I might not be disciplined enough to post updates regularly.   
-(+uf kinda not confident & pessimistic words here, just perfect for an About-page :) ) 
+On top of that, I am also being quite realistic, that after a while, I might not be disciplined enough to post updates regularly.   
++uf kinda not confident & pessimistic words here, just perfect for an About-page :) 
 </sub></sup>
 
 I will try my best with this website and since its already up and running ...
