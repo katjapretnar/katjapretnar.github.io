@@ -7,4 +7,5 @@ seo
 search console
 
 best of, about
-you could search for eg slovenia, area...make a page with the collection of categories, subcategories
+you could search for eg slovenia, area...make a page with a certain tag
+move to 2025 folder
