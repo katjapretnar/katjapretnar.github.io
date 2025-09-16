@@ -5,13 +5,15 @@ gallery:
   - url: /images/2025/kp.gif
     image_path:  /images/2025/kp.gif
     title: KP
+  - url: /assets/images/Katja.jpg
+    image_path:  /assets/images/Katja.jpg
+    title: Katja
+  - url: /assets/images/bw_kp.png
+    image_path:  /assets/images/bw_kp.png
+    title: outdoors
 ---
 
 {% include gallery%}
-
-!["Katja"](/assets/images/Katja.jpg "Katja"){: .align-center}
-!["Outdoors"](/assets/images/a_kp.png "Outdoors"){: .align-right}
-!["KP"](/images/2025/kp.gif "KP"){: .align-left}
 
 I am Katja, born and raised in Gorje - Slovenia, but currently living in Villach - Austria.
 I am an electrical engineer working for chip vendor in the area of software.
