@@ -30,6 +30,8 @@ On top of that, I am also being quite realistic, that after a while, I might not
 
 I will try my best with this website and since its already up and running ...
 
+---
+
 If you find anything on the website interesting, let me know and I'd be happy to connect.
 
 If you'd like, signup for my newsletter  - which I might or might not send out :), lets see 
