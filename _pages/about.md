@@ -9,9 +9,9 @@ gallery:
 
 {% include gallery%}
 
-![image-center](/assets/images/Katja.jpg){: .align-center}
-![image-right](/assets/images/bw_kp.png){: .align-right}
-![image-left](/images/2025/kp.gif){: .align-left}
+!["Katja"](/assets/images/Katja.jpg "Katja"){: .align-center}
+!["Outdoors"](/assets/images/a_kp.png "Outdoors"){: .align-right}
+!["KP"](/images/2025/kp.gif "KP"){: .align-left}
 
 I am Katja, born and raised in Gorje - Slovenia, but currently living in Villach - Austria.
 I am an electrical engineer working for chip vendor in the area of software.
