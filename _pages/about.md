@@ -10,8 +10,10 @@ I am an electrical engineer working for chip vendor in the area of software.
 Apart from that, I have lots of different interests, a major one would be outdoors sports, 
 mainly climbing and all its variants.
 
+I hope you enjoy this little piece of web. :sunflower:
+
 ---
 
 Lets connect - drop me an email to `{first_name}{last_name}@mailbox.org`
 
-If you'd like, signup for my newsletter  <sup><sub> - which I might or might not send out :) </sub></sup>
+My newsletter  <sup><sub> - which I might or might not send out :) </sub></sup>

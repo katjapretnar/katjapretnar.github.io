@@ -67,7 +67,7 @@ author:
  #   - label: "Website"
  #     icon: "fas fa-fw fa-link"
  #     url: "https://katjapretnar.github.io"
-    - label: "katjapretnar@mailbox.com"
+    - label: "{first_name}{last_name}@mailbox.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:katjapretnar@mailbox.com"
     - label: "LinkedIn"
