@@ -13,7 +13,7 @@ gallery:
     title: outdoors
 ---
 
-{% include gallery%}
+![KP](/images/2025/kp.gif "KP") ![Katja](/assets/images/Katja.jpg "Katja") ![outdoors](/assets/images/k_out.png "outdoors")
 
 I am Katja, born and raised in Gorje - Slovenia, but currently living in Villach - Austria.
 I am an electrical engineer working for chip vendor in the area of software.
