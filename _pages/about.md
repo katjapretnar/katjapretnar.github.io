@@ -8,8 +8,8 @@ gallery:
   - url: /assets/images/Katja.jpg
     image_path:  /assets/images/Katja.jpg
     title: Katja
-  - url: /assets/images/bw_kp.png
-    image_path:  /assets/images/bw_kp.png
+  - url: /assets/images/k_out.png
+    image_path:  /assets/images/k_out.png
     title: outdoors
 ---
 
@@ -33,6 +33,6 @@ And since we - you and I - found ourselves here, lets try to make the best of it
 ---
 
 If you find anything on the website interesting, let me know and I'd be happy to connect. 
-Drop me an email to <katjapretnar@mailbox.org>
+Drop me an email to [katjapretnar@mailbox.org](mailto:katjapretnar@mailbox.com)
 
 If you'd like, signup for my newsletter  - which I might or might not send out :), lets see 
