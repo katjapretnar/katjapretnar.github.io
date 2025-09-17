@@ -85,10 +85,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katjapretnar"
-    - label: Posts by Categories
+    - label: Posts by Category
       icon: "fa-solid fa-icons"
       url: /categories/
-    - label: by Tags
+    - label: by Tag
       icon: "fa-solid fa-tags"
       url: /tags/
     - label: by Year

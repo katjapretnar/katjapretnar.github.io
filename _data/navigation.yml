@@ -2,6 +2,6 @@ main:
   - title: "Start"
     url: /start/
     description: "Start here"
-  - title: ":yellow_heart: About"
+  - title: "About"
     url: /about/
     description: "About"
