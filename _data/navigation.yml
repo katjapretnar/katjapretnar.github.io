@@ -1,7 +1,7 @@
 main:
-  - title: ":pencil: Posts"
-    url: /posts/
-    description: "Posts"
+  - title: "Start"
+    url: /start/
+    description: "Start here"
   - title: ":yellow_heart: About"
     url: /about/
     description: "About"

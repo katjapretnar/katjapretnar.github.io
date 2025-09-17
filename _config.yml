@@ -88,9 +88,12 @@ footer:
     - label: Posts by Categories
       icon: "fa-solid fa-icons"
       url: /categories/
-    - label: Posts by Tags
+    - label: by Tags
       icon: "fa-solid fa-tags"
       url: /tags/
+    - label: by Year
+      icon: "fa-solid fa-clock"
+      url: /posts/
 
 defaults:
   # _posts
