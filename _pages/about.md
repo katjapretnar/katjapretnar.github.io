@@ -5,14 +5,16 @@ title: "About"
 
 ![KP](/images/2025/kp.gif "KP") ![Katja](/assets/images/Katja.jpg "Katja") ![outdoors](/assets/images/k_out.png "outdoors")
 
-I am Katja, born and raised in Gorje - Slovenia, but currently living in Villach - Austria.
-I am an electrical engineer working for chip vendor in the area of software.
-Apart from that, I have lots of different interests, a major one would be outdoors sports, 
-mainly climbing and all its variants.
+
+I am Katja, a slovenian who lives in Austria and works for semiconductor vendor. 
+I am passionate about many different interests - like climbing and all climbing variants.  
+<sup><sub>Instead of trying to list them all here, check my website.</sub></sup>
 
 I hope you enjoy this little piece of web. :sunflower:
 
 ---
+---
+
 
 Lets connect - drop me an email to `{first_name}{last_name}@mailbox.org`
 
