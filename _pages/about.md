@@ -7,7 +7,7 @@ title: "About"
 
 
 I am Katja, a slovenian who lives in Austria and works for semiconductor vendor.  
-I am passionate about many different things - like climbing and all the variants of climbing..
+I am passionate about many different things - like climbing and all the variants of climbing...
 
 I hope you enjoy this little piece of web. :sunflower:
 
