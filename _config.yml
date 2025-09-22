@@ -71,7 +71,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:katjapretnar@mailbox.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/katja-pretnar-324391138"
     - label : "About"
       icon: "fa-solid fa-dove"

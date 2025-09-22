@@ -2,6 +2,3 @@ main:
   - title: "Start"
     url: /start/
     description: "Start here"
-  - title: "About"
-    url: /about/
-    description: "About"
