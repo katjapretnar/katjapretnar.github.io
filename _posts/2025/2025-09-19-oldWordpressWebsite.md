@@ -1,5 +1,5 @@
 ---
-title: "Old Wordpress.com Website"
+title: "Old Wordpress.com Website Learnings"
 date: 2025-09-19
 categories:
   - blog
@@ -14,11 +14,11 @@ I did some small experimentation with google blogger site, but I didn't like it 
 Then I was looking for alternatives and liked the 'free' wordpress.com the most. 
 I had a 'blog' there with its first post dating back to year of 2014 :speak_no_evil:
 Anyways, I was not posting regularly and to be honest I actually didn't even want some visitors to my site, 
-as I think I switched off some settings that would make it google-searchable.
+as I think I switched off some settings that would make it google-searchable.  
 (I know this as a friend of mine once told me, he wanted to look for a post of my travels by googling it, 
 found a lot other things about me on google, but not the wordpress site he was looking for.)
 
-#Lessons that I learned from my old website:
+# Lessons that I learned from my old website:
 
 I hava a quite realistic view on frequency of postings, meaning I know that there might come a period, where I will feel 
 motivated to post regularly and then on the other hand, there might be time with quite the opposite - so no posts for longer periods.
@@ -40,7 +40,7 @@ and in my opinion, the social media is a lot more about other things (which is a
 I once read in one book, I think it was from Stephan King, that the channel you use for communicating your message, 
 also influences the message (imagine a commercial clip vs a book chapter).
 
-#Learning takeaways
+# Learning takeaways
 
 I hope this website would be a place to share some of my interests/projects with others. So I hope I will put up
 such posts (the prerequisite to everything). I will also try to make the site organized, 
