@@ -21,7 +21,7 @@ Another rather funny reason is that I have this Seinfeld scene in my head, where
 
 so the site could be some place online where I could share some stuff/output/etc.
 
-- My personal believe is that in today's age of AI generation it is more than ever important to create and realize ideas
+- My personal belief is that in today's age of AI generation it is more than ever important to create and realize ideas
 that are completely grown out of humans' work. Even if that is way harder and even if the result is not that 
 perfect/clean as if it would be if generated.
 
