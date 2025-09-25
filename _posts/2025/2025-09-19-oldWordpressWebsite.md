@@ -6,7 +6,10 @@ categories:
 tags:
 ---
 
-This website is actually not my first one. :speak_no_evil:
+This website is actually not my first one :speak_no_evil:
+and I want to summarize some learnings.
+
+# Blogs
 
 Back in the day (probably around 15 years ago), when everybody had a blog of some sort, 
 I did some small experimentation with google blogger site, but I didn't like it from the get going.
@@ -20,28 +23,36 @@ found a lot other things about me on google, but not the wordpress site he was l
 
 # Lessons that I learned from my old website:
 
+## Consistency
+
 I hava a quite realistic view on frequency of postings, meaning I know that there might come a period, where I will feel 
 motivated to post regularly and then on the other hand, there might be time with quite the opposite - so no posts for longer periods.
+
+## Content
 
 On the old page, I had a lot of 'quick' posts, where I just uploaded one photo with some title or even just a link to some article
 or to a youtube video. Actually also no problem on its own, its just that over time it gets kinda hard to navigate through 
 such bunch of random posts and some that were not-so-random-post-s.
 
+## Organization & online platforms
+
 I made the old wordpress.com site intentionally very sleek. I did not use any tags or whatsover, no sidebar links,
-the only link was to 'About' page, which after clicking - very sleek and mysteriously - read 'Page under construction.'   
+the only link was to 'About' page, which after clicking - very sleek and mysteriously - read '*Page under construction.*'   
 Perhaps I could change that in wordpress - but after a while, I also did not like how limited I was when i wanted to change something.
 It was all either hidden behind some wordpress menus, either you d need to install even some plugins (which I didn't want to dig in)
 or you were just left with what wordpress would let you do.
+
+## Place to share
 
 What I in retrospective liked about it, was that when I made an effort to put together a nice post, I really - even at a 
 later point in time - would revisit it. It is a nice platform to share some of such stuff with others - better
 (more free-form) than a lot of other platforms, eg social media platforms that force a certain format on you
 and in my opinion, the social media is a lot more about other things (which is a topic on its own).  
 I once read in one book, I think it was from Stephan King, that the channel you use for communicating your message, 
-also influences the message (imagine a commercial clip vs a book chapter).
+also influences the message (imagine a commercial clip vs a book chapter trying to present same topic).
 
 # Learning takeaways
 
 I hope this website would be a place to share some of my interests/projects with others. So I hope I will put up
-such posts (the prerequisite to everything). I will also try to make the site organized, 
+interesting posts (the prerequisite to everything). I will also try to make the site organized, 
 so that the visitor could somehow smoothly navigate it.
