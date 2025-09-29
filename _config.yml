@@ -17,7 +17,7 @@
 title: Katja Pretnar
 logo: "/assets/images/kp1.png"
 email: "katjapretnar@mailbox.org"
-description: Personal website for sharing climbing adventures and artsy projects.
+description: Katja Pretnar's website for sharing climbing/artsy projects.
 #twitter_username: username
 github_username: katjapretnar
 minimal_mistakes_skin: default
@@ -61,7 +61,7 @@ google_site_verification: "YC6lIVGAHPRKRvDH4Dztg1B6YxTgNCPx1Qeep5swrBo"
 author:
   name   : "ꟼK"
   avatar : "/assets/images/k_out.png"
-  bio    : "[Yet another climber & engineer.](/about/)"
+  bio    : "[Yet another climber & engineer with 1001 other interests.](/about/)"
   location: SLO & AUT
   links:
  #   - label: "Website"
