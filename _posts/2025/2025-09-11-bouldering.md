@@ -14,5 +14,5 @@ tags:
 
 {% include gallery %}
 
-Austria, Carinthia, Villach.
+Austria, Carinthia, Villach.  
 Bouldering.
