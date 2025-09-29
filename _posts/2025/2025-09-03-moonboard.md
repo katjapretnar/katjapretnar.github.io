@@ -13,4 +13,5 @@ tags:
 
 {% include gallery %}
 
-Austria, Winter, Moonboard.
+Austria, Carinthia, Villach.
+Moonboard.

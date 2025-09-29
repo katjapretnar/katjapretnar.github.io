@@ -12,5 +12,4 @@ tags:
 ---
 
 {% include gallery %}
-{% assign place = site.data.places[page.place] %}
 Dolomites, Rosengarten.
