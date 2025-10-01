@@ -62,6 +62,7 @@ author:
   name   : "ꟼK"
   avatar : "/assets/images/k_out.png"
   bio    : "[Yet another climber & engineer with 1001 other interests.](/about/)"
+  home   : "/about/"
   location: SLO & AUT
   links:
  #   - label: "Website"
