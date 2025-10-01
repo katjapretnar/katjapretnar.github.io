@@ -127,3 +127,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+<script data-goatcounter="https://katjapretnar.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
