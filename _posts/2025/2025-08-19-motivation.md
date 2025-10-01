@@ -17,7 +17,7 @@ first place.
 
 Another rather funny reason is that I have this Seinfeld scene in my head, where Kramer is yelling to George:
 
-![Kramer yelling: You contribute nothing to society!](/images/2025/2025-08-19-kramer.jpg "You contribute nothing to society"){: .align-center}
+![Kramer yelling: You contribute nothing to society!](/images/2025/2025-08-19-kramer.jpg "You contribute nothing to society. source:imgflip"){: .align-center}
 
 so the site could be some place online where I could share some stuff/output/etc.
 
