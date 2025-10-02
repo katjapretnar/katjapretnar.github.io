@@ -57,6 +57,8 @@ plugins:
   - jekyll-include-cache
 
 google_site_verification: "YC6lIVGAHPRKRvDH4Dztg1B6YxTgNCPx1Qeep5swrBo"
+analytics:
+  provider: "custom"
 
 author:
   name   : "ꟼK"
