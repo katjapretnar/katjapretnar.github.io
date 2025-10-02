@@ -14,4 +14,5 @@ tags:
 {% include gallery %}
 
 Austria, Carinthia, Villach.  
+Winter, Climbing.   
 Moonboard.
