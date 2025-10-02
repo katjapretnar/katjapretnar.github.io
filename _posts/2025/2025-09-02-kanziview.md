@@ -9,8 +9,10 @@ gallery:
 categories:
   - summer
 tags:
+- Carinthia
 ---
 
 {% include gallery %}
 
-Austria, Carinthia.
+Austria, Carinthia, Kanzianiberg.  
+Summer, Climbing.
