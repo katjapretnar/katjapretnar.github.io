@@ -9,7 +9,10 @@ gallery:
 categories:
   - summer
 tags:
+  - dolomiti
 ---
 
 {% include gallery %}
-Dolomites, Rosengarten.
+Italy, Dolomiti, Rosengarten.
+Summer, Climbing.   
+Alpine.

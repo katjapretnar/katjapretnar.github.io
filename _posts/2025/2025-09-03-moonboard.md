@@ -9,10 +9,11 @@ gallery:
 categories:
   - winter
 tags:
+-kaernten
 ---
 
 {% include gallery %}
 
-Austria, Carinthia, Villach.  
+Austria, Kaernten, Villach.  
 Winter, Climbing.   
 Moonboard.

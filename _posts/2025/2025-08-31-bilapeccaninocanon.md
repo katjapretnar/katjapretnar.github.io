@@ -9,8 +9,11 @@ gallery:
 categories:
   - summer
 tags:
+  - julijske alpe
 ---
 
 {% include gallery %}
 
-Italy, Sella Nevea.
+Italy, Sella Nevea, Bila Pec
+Summer, Climbing.   
+Multipitch.

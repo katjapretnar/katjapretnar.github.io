@@ -9,10 +9,10 @@ gallery:
 categories:
   - summer
 tags:
-  - Carinthia
+  - Kaernten
 ---
 
 {% include gallery %}
 
-Austria, Carinthia, Villach.  
+Austria, Kaernten, Villach.  
 Bouldering.

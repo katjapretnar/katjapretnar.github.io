@@ -9,9 +9,11 @@ gallery:
 categories:
   - summer
 tags:
-  - bestof
+  - dolomiti
 ---
 
 {% include gallery %}
 
-Dolomites, Civetta.
+Italy, Dolomiti, Civetta.
+Summer, Climbing.   
+Alpine.

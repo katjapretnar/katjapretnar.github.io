@@ -9,8 +9,11 @@ gallery:
 categories:
   - summer
 tags:
+  - julijske alpe
 ---
 
 {% include gallery %}
 
-Italy, Mangart.
+Italy, Julijske alpe , Mali Korintniski Mangart.
+Summer, Climbing.   
+Alpine.
