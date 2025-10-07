@@ -25,9 +25,12 @@ My newsletter  <sup><sub> - which I might or might not send out :) </sub></sup>
     <input type="hidden" name="access_key" value="4ad7a28d-c329-4f0e-b27c-b1495051df57">
 
     <!-- Form Inputs. Each input must have a name="" attribute -->
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <textarea name="message" required></textarea>
+    <label for="nameId" class="form-label">Name</label> 
+    <input type="text" name="name" id="nameId" required>
+    <label for="emailId" class="form-label">Email</label> 
+    <input type="email" name="email" id="emailId" required>
+    <label for="messageId" class="form-label">Message</label> 
+    <textarea name="message" id="messageId" required></textarea>
 
     <!-- Honeypot Spam Protection -->
     <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
