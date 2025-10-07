@@ -9,7 +9,7 @@ gallery:
 categories:
   - summer
 tags:
-  - Kaernten
+  - kaernten
 ---
 
 {% include gallery %}
