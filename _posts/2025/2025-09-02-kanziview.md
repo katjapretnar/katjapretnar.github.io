@@ -1,5 +1,6 @@
 ---
 title: "Kanzi view"
+description: "Austria, Kaernten, Kanzianiberg. Summer, Climbing."
 header:
   teaser: /images/2025/2025-09-02-kanziView_t.jpg
 gallery:
