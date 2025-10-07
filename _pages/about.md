@@ -35,9 +35,15 @@ My newsletter  <sup><sub> - which I might or might not send out :) </sub></sup>
     <!-- Honeypot Spam Protection -->
     <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
+    <!-- hCaptcha: Recommended for Advanced Spam Protection. -->
+    <div class="h-captcha" data-captcha="true"></div> 
+
     <!-- Custom Confirmation / Success Page -->
     <!-- <input type="hidden" name="redirect" value="https://mywebsite.com/thanks.html"> -->
 
     <button type="submit">Submit Form</button>
 
 </form>
+
+<!-- Required only if you are using hCaptcha or Advanced File Upload. -->
+<script src="https://web3forms.com/client/script.js" async defer></script>
