@@ -9,7 +9,7 @@ gallery:
 categories:
   - winter
 tags:
--kaernten
+- kaernten
 ---
 
 {% include gallery %}
